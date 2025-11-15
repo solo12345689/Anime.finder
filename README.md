@@ -1,6 +1,6 @@
 run pip install -r requirements.txt
 Then
-run python app.py
+run python -m flask run
 # MovieBox Streaming App
 
 A Flask-based web application that allows users to search for movies and TV series, then retrieve streaming/download information using the moviebox_api library.
